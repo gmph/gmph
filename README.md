@@ -1,5 +1,3 @@
-# 👋
-
 ### Hi! I'm Graham Macphee. I'm a Product Designer at WhatsApp, based in London.
 
 At WhatsApp, I'm currently focusing on making media and file sharing simple and expressive. Previously at Meta, I designed experiences in Messenger, Facebook and Workplace.
